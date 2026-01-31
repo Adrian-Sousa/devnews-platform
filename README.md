@@ -3,4 +3,5 @@
 Implementação do TabNews para praticar programação.
 
 
-Teste de ambiente.
+Teste de ambiente
+.
